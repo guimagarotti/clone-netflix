@@ -1,0 +1,28 @@
+@media screen and (max-width:700px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sinopse {
+        width: 80%;
+    }
+    
+    .botao {
+        margin-top: 5px;
+        width: 35%;
+    }
+}
+
+@media screen and (max-width:420px) {
+    header .container {
+        text-align: center;
+    }
+
+    .botao {
+        padding: 10px;
+        font-size: 0.6rem;
+        width: 40%;
+    }
+}
+   
