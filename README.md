@@ -5,7 +5,7 @@
 
 ## Projeto:
 
-Esse é um clone da interface inicial da Netflix, realizado com HTML5, CSS3 e seu framework Bootstrap e JavaScript, utilizando JQuery e MediaQuery. Esse projeto permitiu uma evolução pessoal muito grande em CSS3 e JavaScript, já que obti novos conhecimentos nessas tecnologias.
+Esse é um clone da interface inicial da Netflix, realizado com HTML5, CSS3 e seu framework Bootstrap e JavaScript, utilizando JQuery e MediaQuery. Esse projeto permitiu uma evolução pessoal muito grande em CSS3 e JavaScript, já que obtive novos conhecimentos nessas tecnologias.
 
 ## Tecnologias Utilizadas: 
 
