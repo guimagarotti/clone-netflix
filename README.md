@@ -2,6 +2,7 @@
 ## Realizado no bootcamp Carrefour Web Developer, pelo DIO (Digital Innovation One).
 
 [Acesse meu LinkedIn](https://www.linkedin.com/in/guilherme-cambi-magarotti-16177522b/)
+[Link do Projeto](https://guimagarotti.github.io/clone-netflix/)
 
 ## Projeto:
 
